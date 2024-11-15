@@ -1,0 +1,51 @@
+{
+  "id": 3,
+  "title": "Atomic Structure Basics",
+  "questions": [
+    {
+      "question": "What is the center of an atom called?",
+      "answers": [
+        { "text": "Nucleus", "correct": true },
+        { "text": "Proton", "correct": false },
+        { "text": "Electron", "correct": false },
+        { "text": "Neutron", "correct": false }
+      ]
+    },
+    {
+      "question": "Which subatomic particle has a negative charge?",
+      "answers": [
+        { "text": "Electron", "correct": true },
+        { "text": "Proton", "correct": false },
+        { "text": "Neutron", "correct": false },
+        { "text": "Nucleus", "correct": false }
+      ]
+    },
+    {
+      "question": "What is the relative mass of a proton?",
+      "answers": [
+        { "text": "1", "correct": true },
+        { "text": "0", "correct": false },
+        { "text": "1/2", "correct": false },
+        { "text": "2", "correct": false }
+      ]
+    },
+    {
+      "question": "Which particle determines the chemical identity of an atom?",
+      "answers": [
+        { "text": "Proton", "correct": true },
+        { "text": "Electron", "correct": false },
+        { "text": "Neutron", "correct": false },
+        { "text": "Nucleus", "correct": false }
+      ]
+    },
+    {
+      "question": "What is an isotope?",
+      "answers": [
+        { "text": "Atoms of the same element with different numbers of neutrons", "correct": true },
+        { "text": "Atoms with different numbers of protons", "correct": false },
+        { "text": "Atoms with the same number of neutrons and protons", "correct": false },
+        { "text": "Atoms with a different number of electrons", "correct": false }
+      ]
+    }
+  ]
+}

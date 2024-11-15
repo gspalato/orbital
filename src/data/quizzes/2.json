@@ -1,0 +1,51 @@
+{
+  "id": 2,
+  "title": "Understanding Chemical Reactions",
+  "questions": [
+    {
+      "question": "What is the product of a reaction between an acid and a base?",
+      "answers": [
+        { "text": "Salt and water", "correct": true },
+        { "text": "Carbon dioxide and water", "correct": false },
+        { "text": "Oxygen gas", "correct": false },
+        { "text": "Hydrogen gas", "correct": false }
+      ]
+    },
+    {
+      "question": "Which type of reaction is represented by: AB → A + B?",
+      "answers": [
+        { "text": "Decomposition", "correct": true },
+        { "text": "Synthesis", "correct": false },
+        { "text": "Combustion", "correct": false },
+        { "text": "Single displacement", "correct": false }
+      ]
+    },
+    {
+      "question": "In a combustion reaction, which two products are typically formed?",
+      "answers": [
+        { "text": "Carbon dioxide and water", "correct": true },
+        { "text": "Oxygen and nitrogen", "correct": false },
+        { "text": "Hydrogen gas and water", "correct": false },
+        { "text": "Ammonia and carbon dioxide", "correct": false }
+      ]
+    },
+    {
+      "question": "What is a catalyst?",
+      "answers": [
+        { "text": "A substance that speeds up a reaction without being consumed", "correct": true },
+        { "text": "A reactant that gets used up in a reaction", "correct": false },
+        { "text": "A product of the reaction", "correct": false },
+        { "text": "A type of chemical bond", "correct": false }
+      ]
+    },
+    {
+      "question": "What type of reaction is: C + O₂ → CO₂?",
+      "answers": [
+        { "text": "Combustion", "correct": true },
+        { "text": "Synthesis", "correct": false },
+        { "text": "Decomposition", "correct": false },
+        { "text": "Double displacement", "correct": false }
+      ]
+    }
+  ]
+}
